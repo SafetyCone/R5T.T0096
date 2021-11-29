@@ -1,0 +1,3 @@
+R5T.T0096.Construction - Construction project for INamedIdentified, INamedIdentifiedOperator, and related extension method bases..
+
+GOALS:
